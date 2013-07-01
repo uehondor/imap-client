@@ -1,0 +1,25 @@
+{
+  "name": "imap-client",
+  "version": "0.0.1",
+  "description": "Imap client for the command line",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "http://github.com:uehondor/imap-client.git"
+  },
+  "keywords": [
+    "Imap",
+    "client",
+    "for",
+    "web",
+    "browser",
+    "and",
+    "command",
+    "line"
+  ],
+  "author": "Uyi Ehondor",
+  "license": "BSD"
+}
