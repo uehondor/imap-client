@@ -11,14 +11,9 @@
     "url": "http://github.com:uehondor/imap-client.git"
   },
   "keywords": [
-    "Imap",
-    "client",
-    "for",
-    "web",
-    "browser",
-    "and",
-    "command",
-    "line"
+    "Imap client",
+    "Console",
+    "Command line"
   ],
   "author": "Uyi Ehondor",
   "license": "BSD"
